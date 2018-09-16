@@ -1,0 +1,2 @@
+# xiaomi.jq
+jquery
