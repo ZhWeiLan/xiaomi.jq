@@ -2,7 +2,7 @@
 * @Author: Mypc
 * @Date:   2017-12-01 10:48:03
 * @Last Modified by:   89333
-* @Last Modified time: 2018-09-13 22:50:26
+* @Last Modified time: 2018-09-17 12:56:09
 */
 *{
 	margin: 0;
@@ -683,11 +683,13 @@ body{
 	/* background: red; */
 	margin-left: 248px;
 	overflow: hidden;
+	position: relative;
 }
 .star .bottom .bigbox{
 	width: 2976px;
 	height: 340px;
 	transition: all 1s;
+	position: absolute;
 }
 .star .bottom .box{
   width: 234px;
